@@ -6,9 +6,8 @@
     "dependencies": ["requests==2.26.0"],
     "documentation": "https://github.com/Lechtob/ha-neoom-connect",
     "integration_type": "hub",
-    "iot_class": "gateway",
+    "iot_class": "cloud_polling",
     "issue_tracker": "https://github.com/Lechtob/ha-neoom-connect/issues",
     "requirements": ["requests==2.26.0"],
     "version": "2024.0.1",
-    "homeassistant": ">=2024.1.0"
 }
