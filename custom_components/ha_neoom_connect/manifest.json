@@ -3,8 +3,10 @@
     "name": "Neoom CONNECT",
     "codeowners": ["@Lechtob"],
     "dependencies": [],
+    "confi_flow": true,
     "documentation": "https://github.com/Lechtob/ha-neoom-connect",
     "integration_type": "hub",
     "iot_class": "cloud_polling",
-    "requirements": []
+    "requirements": ["requests"],
+    "version": "0.1.0"
   }

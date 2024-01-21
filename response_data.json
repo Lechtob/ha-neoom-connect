@@ -1,0 +1,50 @@
+{
+    "power_consumption": {
+        "value": null,
+        "time": "2024-01-14T15:26:05.001Z"
+    },
+    "power_consumption_calc": {
+        "value": 5139,
+        "time": "2024-01-14T15:52:05.003Z"
+    },
+    "power_production": {
+        "value": 0,
+        "time": "2024-01-14T15:27:25.002Z"
+    },
+    "power_storage": {
+        "value": 0,
+        "time": "2024-01-14T15:26:05.001Z"
+    },
+    "power_grid": {
+        "value": 5139,
+        "time": "2024-01-14T15:52:05.003Z"
+    },
+    "power_heating": {
+        "value": null,
+        "time": "2024-01-14T15:26:05.001Z"
+    },
+    "power_appliances": {
+        "value": 5139,
+        "time": "2024-01-14T15:26:05.001Z"
+    },
+    "state_of_charge": {
+        "value": 8,
+        "time": "2024-01-14T15:26:05.001Z"
+    },
+    "self_sufficiency": {
+        "value": 0,
+        "time": "2024-01-14T15:27:25.002Z"
+    },
+    "consumers_total_count": 0,
+    "consumers_online_count": 0,
+    "producers_total_count": 2,
+    "producers_online_count": 2,
+    "storages_total_count": 1,
+    "storages_online_count": 1,
+    "heatings_total_count": 0,
+    "heatings_online_count": 0,
+    "charging_points_total_count": 0,
+    "charging_points_online_count": 0,
+    "grids_total_count": 1,
+    "grids_online_count": 1
+}

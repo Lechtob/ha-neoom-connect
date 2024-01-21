@@ -1,1 +1,0 @@
-"""The Neoom CONNECT Integration"""
